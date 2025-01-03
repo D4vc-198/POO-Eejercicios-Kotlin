@@ -30,6 +30,4 @@ Combustible: Gasolina
 ```
 
 > [!NOTE]
-> Puntos clave a considerar
-
-Puedes ver la solución del ejercicio aqui
+> [Puedes ver la solución del ejercicio aqui](solution.kt)
